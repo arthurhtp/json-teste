@@ -1,0 +1,19 @@
+{
+  "name": "jsonserver-stockit",
+  "version": "1.0.0",
+  "description": "API JSON Server para o projeto StockIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "json",
+    "server",
+    "stockit"
+  ],
+  "author": "Arthur",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
