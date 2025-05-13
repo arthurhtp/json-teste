@@ -130,10 +130,10 @@
       ],
   
     "tipoAmbiente": [
-        { "id": 0, "tipo": "Outros" },
-        { "id": 1, "tipo": "Refrigeração" },
-        { "id": 2, "tipo": "Seco" },
-        { "id": 3, "tipo": "Congelado" }
+        { "id": 0, "tipo": "Outros", "icone": "fa-solid fa-box-archive" },
+        { "id": 1, "tipo": "Refrigeração", "icone": "fa-regular fa-snowflake" },
+        { "id": 2, "tipo": "Seco", "icone": "fa-solid fa-warehouse" },
+        { "id": 3, "tipo": "Congelado", "icone": "fa-solid fa-icicles" }
     ]
   }
   
