@@ -61,7 +61,7 @@
       {
         "id": 3,
         "nome": "Freezer",
-        "tipo": 1,
+        "tipo": 3,
         "imagem": "freezer.png",
         "itens": [
           {
@@ -75,7 +75,7 @@
       {
         "id": 4,
         "nome": "Freezer",
-        "tipo": 1,
+        "tipo": 3,
         "imagem": "freezer.png",
         "itens": [
           {
@@ -133,7 +133,7 @@
         { "id": 0, "tipo": "Outros", "icone": "fa-solid fa-box-archive" },
         { "id": 1, "tipo": "Refrigeração", "icone": "fa-regular fa-snowflake" },
         { "id": 2, "tipo": "Seco", "icone": "fa-solid fa-warehouse" },
-        { "id": 3, "tipo": "Congelado", "icone": "fa-solid fa-icicles" }
+        { "id": 3, "tipo": "Congelador", "icone": "fa-solid fa-icicles" }
     ]
   }
   
