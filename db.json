@@ -131,9 +131,9 @@
   
     "tipoAmbiente": [
         { "id": 0, "tipo": "Outros", "icone": "fa-solid fa-box-archive" },
-        { "id": 1, "tipo": "Refrigeração", "icone": "fa-regular fa-snowflake" },
+        { "id": 1, "tipo": "Refrigeração", "icone": "fa-regular fa-temperature-low" },
         { "id": 2, "tipo": "Seco", "icone": "fa-solid fa-warehouse" },
-        { "id": 3, "tipo": "Congelador", "icone": "fa-solid fa-icicles" }
+        { "id": 3, "tipo": "Congelador", "icone": "fa-regular fa-snowflake" }
     ]
   }
   
