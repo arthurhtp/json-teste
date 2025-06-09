@@ -27,7 +27,7 @@
     {
       "id": 3,
       "nome": "Freezer",
-      "tipo": 2,
+      "tipo": 3,
       "itens": [
         { "alimentoId": 11, "quantidade": 2, "vencimento": "2025-12-01", "cadastro": "2025-05-30" },
         { "alimentoId": 12, "quantidade": 6, "vencimento": "2026-01-10", "cadastro": "2025-05-30" },
