@@ -100,7 +100,25 @@
           { "alimentoId": 3, "quantidade": 2 }
         ]
       }
-    ]
+    ],
+    
+  "users": [
+    {
+      "id": 1,
+      "email": "ana@stockit.com",
+      "senha": "1234"
+    },
+    {
+      "id": 2,
+      "email": "lucas@stockit.com",
+      "senha": "senha123"
+    },
+    {
+      "id": 3,
+      "email": "maria@stockit.com",
+      "senha": "abc123"
+    }
+  ]
   
   }
   
